@@ -106,7 +106,7 @@ const Homepage = () => {
                     </div>
                   </div>
 
-                  <img src="src/assets/iphoneimg.png" />
+                  <img src="/assets/iphoneimg.png" />
                 </div>
               </SwiperSlide>
               <SwiperSlide>
@@ -129,7 +129,7 @@ const Homepage = () => {
                     </div>
                   </div>
 
-                  <img src="src/assets/iphoneimg.png" />
+                  <img src="/assets/iphoneimg.png" />
                 </div>
               </SwiperSlide>
               <SwiperSlide>
@@ -152,7 +152,7 @@ const Homepage = () => {
                     </div>
                   </div>
 
-                  <img src="src/assets/iphoneimg.png" />
+                  <img src="/assets/iphoneimg.png" />
                 </div>
               </SwiperSlide>
               <SwiperSlide>
@@ -175,7 +175,7 @@ const Homepage = () => {
                     </div>
                   </div>
 
-                  <img src="/src/assets/iphoneimg.png" />
+                  <img src="/assets/iphoneimg.png" />
                 </div>
               </SwiperSlide>
               <SwiperSlide>
@@ -198,7 +198,7 @@ const Homepage = () => {
                     </div>
                   </div>
 
-                  <img src="/src/assets/iphoneimg.png" />
+                  <img src="/assets/iphoneimg.png" />
                 </div>
               </SwiperSlide>
               <SwiperSlide>

@@ -58,7 +58,7 @@ const Signup = () => {
       <NavComponent />
 
       <div className="signup-content">
-        <img src="/src/assets/signupimage.png" />
+        <img src="/assets/signupimage.png" />
 
         <div className="form-wrapper">
           <form onSubmit={formik.handleSubmit}>

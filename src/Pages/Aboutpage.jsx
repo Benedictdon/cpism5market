@@ -83,7 +83,7 @@ Exclusive has more than 1 Million products to offer, growing at a very fast. Exc
    </div>
 
    <div>
-    <img src="src/assets/frame 875.png" className="custom"/>
+    <img src="/assets/frame 875.png" className="custom"/>
     <h3>Emma Watson</h3>
     <p>Managing director</p>
     <div>

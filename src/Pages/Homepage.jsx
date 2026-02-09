@@ -221,7 +221,7 @@ const Homepage = () => {
                     </div>
                   </div>
 
-                  <img src="/src/assets/iphoneimg.png" />
+                  <img src="/assets/iphoneimg.png" />
                 </div>
               </SwiperSlide>
             </Swiper>
@@ -398,7 +398,7 @@ const Homepage = () => {
           </div>
 
           <div className="enhance-right">
-            <img src="/src/assets/jbl.png" alt="speaker img" />
+            <img src="/assets/jbl.png" alt="speaker img" />
 
           </div>
            

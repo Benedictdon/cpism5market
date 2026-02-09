@@ -57,7 +57,7 @@ const Signin = () => {
 
       
       <div className="signin-content">
-        <img src="/src/assets/signupimage.png" />
+        <img src="//assets/signupimage.png" />
 
         <div className="form-wrapper">
           <form onSubmit={formik.handleSubmit}>

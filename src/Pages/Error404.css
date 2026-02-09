@@ -1,0 +1,99 @@
+.error-container {
+    min-height: 100vh;
+    background: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding: 20px;
+}
+
+
+.error-card {
+  width: 100%;
+  max-width: 450px;
+  margin: auto;  /* THIS is important */
+
+  background: white;
+  border-radius: 18px;
+  padding: 40px 30px;
+  text-align: center;
+
+  box-shadow: 0 15px 30px rgba(0,0,0,0.06);
+}
+
+.error-emoji { 
+  font-size: 3.5rem;
+  margin-bottom: 10px;
+}
+
+.error-title {
+  font-size: 5.5rem;
+  font-weight: 800;
+  color: #0f172a;
+  margin: 0;
+}
+
+.error-subtitle {
+  font-size: 1.5rem;
+  margin: 10px 0 15px;
+  color: #1e293b;
+}
+
+.error-text {
+  font-size: 1rem;
+  color: #64748b;
+  margin-bottom: 30px;
+  line-height: 1.5;
+}
+
+.error-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.error-btn {
+  text-decoration: none;
+  padding: 12px 20px;
+  border-radius: 30px;
+  font-weight: 600;
+  transition: 0.3s;
+  display: block;
+}
+
+.error-btn.primary {
+  background: #2563eb;
+  color: white;
+}
+
+.error-btn.primary:hover {
+  background: #1d4ed8;
+  transform: scale(1.03);
+}
+
+.error-btn.outline {
+  border: 2px solid #2563eb;
+  color: #2563eb;
+}
+
+.error-btn.outline:hover {
+  background: #2563eb;
+  color: white;
+}
+
+/* Mobile friendly */
+@media (max-width: 480px) {
+  .error-card {
+    padding: 30px 20px;
+  }
+
+  .error-title {
+    font-size: 4rem;
+  }
+
+  .error-subtitle {
+    font-size: 1.2rem;
+  }
+}
